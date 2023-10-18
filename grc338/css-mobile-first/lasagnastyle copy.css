@@ -9,10 +9,10 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
     }
 
 figcaption { 
-    font-family: Sutro, serif;  
-    font-weight: 300;  
+    font-family: poppins, sans-serif;  
+    font-weight: 400;  
     font-style: italic;
-    
+    margin: 1em
     }
 
 h1 {
@@ -27,12 +27,13 @@ h1 {
 
 h2 { 
     background-color:rgb(255, 140, 0);
-    padding: 0em 1em 1em;
+    padding: 1em .5em .2em;
     font-family: Sutro, serif;  
     font-weight: 300;  
     font-style: normal; 
     color: rgb(217, 233, 233);
-    font-size: 2em;
+    font-size: 3em;
+
 }
 
 
@@ -53,7 +54,7 @@ ul {
 }
 
 li {
-    margin: 0em .6em 1em;
+    margin: 1em .6em 1em;
 	list-style-type: bullet point; 
     font-family: poppins, sans-serif;  
     font-weight: 400;  
